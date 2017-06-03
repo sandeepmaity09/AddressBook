@@ -183,7 +183,6 @@ public class RegistrationPage extends JFrame {
         userPinCode.setText("");
         userEmail.setText("");
         dispose();
-
     }
 
     public void newWindow(){

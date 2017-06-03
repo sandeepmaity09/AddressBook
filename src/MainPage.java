@@ -112,6 +112,8 @@ public class MainPage {
             @Override
             public void actionPerformed(ActionEvent e) {
                 f.dispose();
+                DeletePage dp = new DeletePage();
+                dp.setVisible(true);
             }
         });
 
