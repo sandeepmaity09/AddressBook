@@ -22,9 +22,10 @@
 hs_err_pid*
 
 # IdeaProject Files
-.idea
+.idea/
 
 # Project Configration
 *.iml
+
 # Production Files
 out/
